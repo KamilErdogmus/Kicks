@@ -57,13 +57,13 @@ npm install
 4. Start the development server:
 
 ```bash
-npm  npm run server
+npm  run server
 ```
 
 5. Start the development frontend:
 
 ```bash
-npm  npm run dev
+npm  run dev
 ```
 
 6. Open your web browser and visit http://localhost:5173 to view the application.
