@@ -1,0 +1,312 @@
+{
+  "shoes": [
+    {
+      "id": "shoe1",
+      "name": "ADIDAS X PARLEY",
+      "picture": [
+        "/Rectangle 8.png",
+        "/Rectangle 9.png",
+        "/Rectangle 10.png",
+        "/Rectangle 11.png"
+      ],
+      "description": "Shadow Navy / Army Green <br/><br/> This product is excluded from all promotional discounts and offers. <br/><br/> &bull; &nbsp; Pay over time in interest-free installments with Affirm, Klarna or Afterpay.<br/> &bull; &nbsp; Join adiClub to get unlimited free standard shipping, returns, & exchanges.",
+      "isNew": true,
+      "size": "38,41,42,43,44,45",
+      "color": "black,white",
+      "gender": "women",
+      "price": 125,
+      "refine": ["casual"],
+      "type": ["sneaker"]
+    },
+    {
+      "id": "shoe2",
+      "name": "PUMA ULTRARIDE",
+      "picture": [
+        "/item-2.png",
+        "/item-4.png",
+        "/item-3.png",
+        "/item-1.png"
+      ],
+      "description": "Black / White <br/><br/> Excluded from special discounts. <br/><br/> Pay in interest-free installments with Affirm, Klarna, or Afterpay. <br/><br/> Join adiClub for free shipping, returns, and exchanges.<br/>",
+      "isNew": true,
+      "size": "38,39,40",
+      "color": "black,white",
+      "gender": "women",
+      "price": 200,
+      "refine": ["casual"],
+      "type": ["sneaker"]
+    },
+    {
+      "id": "shoe3",
+      "name": "NEW BALANCE FUELCELL PRISM",
+      "picture": [
+        "/item-3.png",
+        "/item-4.png",
+        "/item-2.png",
+        "/item-1.png"
+      ],
+      "description": "Light Aluminum / Black <br/><br/> Excluded from special discounts. <br/><br/> Pay in interest-free installments with Affirm, Klarna, or Afterpay. <br/><br/> Join adiClub for free shipping, returns, and exchanges.<br/>",
+      "isNew": false,
+      "size": "41,42,43",
+      "color": "light-gray,black",
+      "gender": "men",
+      "price": 250,
+      "refine": ["mens"],
+      "type": ["runners"]
+    },
+    {
+      "id": "shoe4",
+      "name": "ASICS GEL-NIMBUS 23",
+      "picture": [
+        "/item-1.png",
+        "/item-4.png",
+        "/item-3.png",
+        "/item-2.png"
+      ],
+      "description": "Midnight / Champagne <br/><br/> Excluded from special discounts. <br/><br/> Pay in interest-free installments with Affirm, Klarna, or Afterpay. <br/><br/> Join adiClub for free shipping, returns, and exchanges.<br/>",
+      "isNew": false,
+      "size": "40,42,43",
+      "color": "blue,brown",
+      "gender": "women",
+      "price": 300,
+      "refine": ["casual"],
+      "type": ["hiking"]
+    },
+    {
+      "id": "shoe5",
+      "name": "SAUCONY ENDORPHIN SPEED",
+      "picture": [
+        "/item-5.png",
+        "/item-2.png",
+        "/item-3.png",
+        "/item-1.png"
+      ],
+      "description": "Black / Gold <br/><br/> Excluded from special discounts. <br/><br/> Pay in interest-free installments with Affirm, Klarna, or Afterpay. <br/><br/> Join adiClub for free shipping, returns, and exchanges.<br/>",
+      "isNew": true,
+      "size": "38,40,42",
+      "color": "black,orange",
+      "gender": "men",
+      "price": 350,
+      "refine": ["mens", "casual"],
+      "type": ["basketball"]
+    },
+    {
+      "id": "shoe6",
+      "name": "BROOKS GHOST 14",
+      "discount": 20,
+      "picture": [
+        "/item-6.png",
+        "/item-3.png",
+        "/item-5.png",
+        "/item-4.png"
+      ],
+      "description": "Blue / White <br/><br/> Excluded from special discounts. <br/><br/> Pay in interest-free installments with Affirm, Klarna, or Afterpay. <br/><br/> Join adiClub for free shipping, returns, and exchanges.<br/>",
+      "isNew": true,
+      "size": "39,40,41",
+      "color": "blue,light-gray",
+      "gender": "women",
+      "price": 400,
+      "refine": ["casual"],
+      "type": ["casual shoes"]
+    },
+    {
+      "id": "shoe7",
+      "name": "HOKA ONE ONE CLIFTON 8",
+      "picture": [
+        "/item-4.png",
+        "/item-3.png",
+        "/item-2.png",
+        "/item-1.png"
+      ],
+      "description": "Turquoise / Coral <br/><br/> Excluded from special discounts. <br/><br/> Pay in interest-free installments with Affirm, Klarna, or Afterpay. <br/><br/> Join adiClub for free shipping, returns, and exchanges.<br/>",
+      "isNew": false,
+      "size": "40,41,43",
+      "color": "green,orange",
+      "gender": "men",
+      "price": 450,
+      "refine": ["mens"],
+      "type": ["golf"]
+    },
+    {
+      "id": "shoe8",
+      "name": "MIZUNO WAVE RIDER 25",
+      "picture": [
+        "/item-3.png",
+        "/item-4.png",
+        "/item-2.png",
+        "/item-1.png"
+      ],
+      "description": "White / Silver <br/><br/> Excluded from special discounts. <br/><br/> Pay in interest-free installments with Affirm, Klarna, or Afterpay. <br/><br/> Join adiClub for free shipping, returns, and exchanges.<br/>",
+      "isNew": true,
+      "size": "39,41,42,46",
+      "color": "gray,white",
+      "gender": "women",
+      "price": 500,
+      "refine": ["casual"],
+      "type": ["runners"]
+    },
+    {
+      "id": "shoe9",
+      "name": "UNDER ARMOUR HOVR MACHINA",
+      "discount": 40,
+      "picture": [
+        "/item-5.png",
+        "/item-2.png",
+        "/item-3.png",
+        "/item-1.png"
+      ],
+      "description": "Red / Black <br/><br/> Excluded from special discounts. <br/><br/> Pay in interest-free installments with Affirm, Klarna, or Afterpay. <br/><br/> Join adiClub for free shipping, returns, and exchanges.<br/>",
+      "isNew": false,
+      "size": "38,40,43,45",
+      "color": "red,black",
+      "gender": "men",
+      "price": 550,
+      "refine": ["mens"],
+      "type": ["outdoor"]
+    },
+    {
+      "id": "shoe10",
+      "name": "ALTRA TORIN 5",
+      "picture": [
+        "/item-1.png",
+        "/item-4.png",
+        "/item-3.png",
+        "/item-2.png"
+      ],
+      "description": "Gray / Blue <br/><br/> Excluded from special discounts. <br/><br/> Pay in interest-free installments with Affirm, Klarna, or Afterpay. <br/><br/> Join adiClub for free shipping, returns, and exchanges.<br/>",
+      "isNew": true,
+      "size": "39,41,42,47",
+      "color": "gray,blue",
+      "gender": "women",
+      "price": 600,
+      "refine": ["casual"],
+      "type": ["casual shoes"]
+    },
+    {
+      "id": "shoe12",
+      "name": "SALOMON SPEEDCROSS 5",
+      "picture": [
+        "/item-2.png",
+        "/item-1.png",
+        "/item-4.png",
+        "/item-3.png"
+      ],
+      "description": "Slate / Sky <br/><br/> Excluded from special discounts. <br/><br/> Pay in interest-free installments with Affirm, Klarna, or Afterpay. <br/><br/> Join adiClub for free shipping, returns, and exchanges.<br/>",
+      "isNew": true,
+      "size": "40,41,42,44",
+      "color": "gray,blue",
+      "gender": "women",
+      "price": 700,
+      "refine": ["casual"],
+      "type": ["hiking"]
+    },
+    {
+      "id": "shoe13",
+      "name": "INOV-8 TERRAULTRA G 270",
+      "picture": [
+        "/item-3.png",
+        "/item-1.png",
+        "/item-4.png",
+        "/item-2.png"
+      ],
+      "description": "Teal / Lime <br/><br/> Excluded from special discounts. <br/><br/> Pay in interest-free installments with Affirm, Klarna, or Afterpay. <br/><br/> Join adiClub for free shipping, returns, and exchanges.<br/>",
+      "isNew": true,
+      "size": "38,40,42,45",
+      "color": "blue,yellow",
+      "gender": "men",
+      "price": 750,
+      "refine": ["mens"],
+      "type": ["sneaker"]
+    },
+    {
+      "id": "shoe14",
+      "name": "MERRELL MOAB 2 VENT",
+      "picture": [
+        "/item-4.png",
+        "/item-3.png",
+        "/item-2.png",
+        "/item-1.png"
+      ],
+      "description": "Dusty Olive / Navy <br/><br/> Excluded from special discounts. <br/><br/> Pay in interest-free installments with Affirm, Klarna, or Afterpay. <br/><br/> Join adiClub for free shipping, returns, and exchanges.<br/>",
+      "isNew": false,
+      "size": "39,41,43,46",
+      "color": "green,blue",
+      "gender": "women",
+      "price": 800,
+      "refine": ["casual"],
+      "type": ["outdoor"]
+    },
+    {
+      "id": "shoe15",
+      "name": "COLUMBIA FACET 45",
+      "picture": [
+        "/item-3.png",
+        "/item-1.png",
+        "/item-4.png",
+        "/item-2.png"
+      ],
+      "description": "Black / Green <br/><br/> Excluded from special discounts. <br/><br/> Pay in interest-free installments with Affirm, Klarna, or Afterpay. <br/><br/> Join adiClub for free shipping, returns, and exchanges.<br/>",
+      "isNew": true,
+      "size": "38,40,41,45",
+      "color": "black,green",
+      "gender": "men",
+      "price": 850,
+      "refine": ["mens"],
+      "type": ["golf"]
+    },
+    {
+      "id": "shoe16",
+      "name": "THE NORTH FACE VECTIV",
+      "picture": [
+        "/item-5.png",
+        "/item-2.png",
+        "/item-3.png",
+        "/item-1.png"
+      ],
+      "description": "Navy / Orange <br/><br/> Excluded from special discounts. <br/><br/> Pay in interest-free installments with Affirm, Klarna, or Afterpay. <br/><br/> Join adiClub for free shipping, returns, and exchanges.<br/>",
+      "isNew": false,
+      "size": "38,39,42,46",
+      "color": "blue,orange",
+      "gender": "women",
+      "price": 900,
+      "refine": ["casual"],
+      "type": ["basketball"]
+    },
+    {
+      "id": "shoe17",
+      "name": "KEEN TARGHEE III",
+      "picture": [
+        "/item-6.png",
+        "/item-3.png",
+        "/item-5.png",
+        "/item-4.png"
+      ],
+      "description": "Taupe / Walnut <br/><br/> Excluded from special discounts. <br/><br/> Pay in interest-free installments with Affirm, Klarna, or Afterpay. <br/><br/> Join adiClub for free shipping, returns, and exchanges.<br/>",
+      "isNew": true,
+      "size": "40,41,43",
+      "color": "brown,light-gray",
+      "gender": "men",
+      "price": 950,
+      "refine": ["mens"],
+      "type": ["hiking"]
+    },
+    {
+      "id": "shoe18",
+      "name": "TEVA HURRICANE XLT2",
+      "picture": [
+        "/item-4.png",
+        "/item-3.png",
+        "/item-2.png",
+        "/item-1.png"
+      ],
+      "description": "Wild Dove / Black <br/><br/> Excluded from special discounts. <br/><br/> Pay in interest-free installments with Affirm, Klarna, or Afterpay. <br/><br/> Join adiClub for free shipping, returns, and exchanges.<br/>",
+      "isNew": false,
+      "size": "39,40,41",
+      "color": "gray,black",
+      "gender": "women",
+      "price": 1000,
+      "refine": ["casual"],
+      "type": ["casual shoes"]
+    }
+  ]
+}
